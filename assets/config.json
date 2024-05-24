@@ -1,0 +1,12 @@
+{
+    "apiURL": "https://10.0.2.2:7126",
+    "chatURL": "http://10.0.2.2:5080",
+    "authURL": "http://10.0.2.2:5185",
+    "connectonTimeOut": 5,
+    "cacheDurationInHour": 12,
+    "cacheDurationInDays": 1,
+    "exerciseOther" : 0,
+    "exerciseObedience" : 1,
+    "exerciseRecreation" : 2,
+    "exerciseSport" : 3
+}
